@@ -4,7 +4,7 @@ This is the public hub where you can find information about what is happening at
 2. [Inbox board](#inbox-board)
 3. [Community discussion forum](#community-discussion-forum)
 
-**This is the central tool for contributing feedback to ROR.** To the extent possible, feedback contributed through other channels will be documented here, but we recommend following the [How to contribute](#how-to-contribute) guidelines in this repository to make sure that your feedback is considered.
+**This is the central tool for contributing feedback to ROR. To the extent possible, feedback contributed through other channels will be documented here, but we recommend following the [How to contribute](#how-to-contribute) guidelines in this repository to make sure that your feedback is considered.**
 
 ## Public roadmap board
 :spiral_calendar: _High-level summary of current, planned, and completed activities_
