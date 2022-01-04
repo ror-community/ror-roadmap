@@ -1,3 +1,4 @@
+blank_issues_enabled: false
 contact_links:
   - name: ROR Roadmap Discussion Forum
     url: https://github.com/ror-community/ror-roadmap/discussions
