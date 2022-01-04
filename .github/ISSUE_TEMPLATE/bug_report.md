@@ -1,11 +1,15 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Something not working in a ROR tool or service? Report it here.
 title: "[BUG] "
 labels: bug
 assignees: ''
 
 ---
+
+<!---
+Please do not use this form to request changes to ROR record data, such as adding new ROR records or changing data on existing records! ROR record data changes are managed through a Community Curation Process. To request changes to ROR record data, see https://github.com/ror-community/ror-updates#requesting-changes-to-ror
+-->
 
 **Describe the bug**
 A clear and concise description of what the bug is.

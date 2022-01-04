@@ -1,11 +1,15 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Suggest a new feature or enhancement to ROR tools and services.
 title: "[FEATURE]"
 labels: feature
 assignees: ''
 
 ---
+
+<!---
+If you don't have enough information to fill this form out completely, start a conversation in the discussion forum to gather community input https://github.com/ror-community/ror-roadmap/discussions
+-->
 
 **Describe the problem you would like to solve**
 Example: Our data analysts need a way to [...]
