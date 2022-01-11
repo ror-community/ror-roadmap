@@ -14,7 +14,7 @@ The [public roadmap board](https://github.com/ror-community/ror-roadmap/projects
 ## Inbox board
 :file_cabinet: _A central store of all proposed development work_
 
-The [inbox board](https://github.com/ror-community/ror-roadmap/projects/1) is used for storing and scoping proposed development work. Issues on this board move through ROR's development workflow as they are reviewed, prioritized, and undergo specification, and as ROR solicits community feedback. When issues are ready to be worked on, they are moved to the [software development board](https://github.com/orgs/ror-community/projects/3). 
+The [inbox board](https://github.com/ror-community/ror-roadmap/projects/1) is used for storing and scoping proposed development work. Issues on this board move through ROR's [product development workflow](https://github.com/ror-community/ror-roadmap) as they are reviewed, prioritized, and undergo specification, and as ROR solicits community feedback. When issues are ready to be worked on, they are moved to the [software development board](https://github.com/orgs/ror-community/projects/3). 
 
 ## Community discussion forum
 :speech_balloon: _A forum for suggesting improvements and asking questions_
