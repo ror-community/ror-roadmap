@@ -12,6 +12,6 @@ assignees: ''
 
 **Describe the current state/issue**
 
-**Described the desired state/solution**
+**Describe the desired state/solution**
 
 **Additional notes**
