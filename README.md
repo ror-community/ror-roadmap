@@ -42,6 +42,13 @@ If you find a problem with the [ROR API](https://ror.readme.io/docs/rest-api), [
 
 *Note: Please do not open a bug report to request changes to ROR record data, such as adding new ROR records or changing data on existing records! ROR record data changes are managed through a community-based curation process. To request changes to ROR record data, see [Curation requests](#curation-requests) below.*
 
+## Schema change requests
+If you have suggestions for changes to the ROR data model, please start a discussion topic in the [community discussion forum](https://github.com/ror-community/ror-roadmap/discussions). It's a good idea to review the [current schema](https://github.com/ror-community/ror-schema/blob/master/ror_schema.json) and [data model documentation](https://ror.readme.io/docs/ror-data-structure) before requesting a change.
+
+You can also open an issue in this repository using the [Schema change request template](https://github.com/ror-community/ror-roadmap/issues/new?assignees=&labels=feature&template=feature_request.md&title=%5BFEATURE%5D). If you don't have all  the  information needed to complete the issue template, please start in the [discussion forum](https://github.com/ror-community/ror-roadmap/discussions). Please do not submit pull requests at this time. 
+
+Schema change requests will be considered as part of the [schema & API versioning process](https://docs.google.com/document/d/18nl6pq0kdCU5ApcdbNjKnV7xHIw9eEY7DJG1WHjaLSs/edit#heading=h.2dmcpw2h9rmy), which includes a community comment period.
+
 ## Curation requests
 If you have feedback about the contents of the registry, e.g., if you wish to suggest any new organizations to be added or any changes to an existing record, use [this form](https://docs.google.com/forms/d/e/1FAIpQLSdJYaMTCwS7muuTa-B_CnAtCSkKzt19lkirAKG4u7umH9Nosg/viewform). You can read more about the registry's curation workflow [here](https://github.com/ror-community/ror-updates). 
 
