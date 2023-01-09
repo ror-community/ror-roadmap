@@ -2,7 +2,7 @@
 name: Schema change request
 about: Suggest a change to ROR's data model
 title: "[SCHEMA]"
-labels: ''
+labels: data model/schema
 assignees: ''
 
 ---
