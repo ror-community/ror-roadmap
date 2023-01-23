@@ -50,7 +50,7 @@ You can also open an issue in this repository using the [Schema change request t
 Schema change requests will be considered as part of the [schema & API versioning process](https://docs.google.com/document/d/18nl6pq0kdCU5ApcdbNjKnV7xHIw9eEY7DJG1WHjaLSs/edit#heading=h.2dmcpw2h9rmy), which includes a community comment period.
 
 ## Curation requests
-If you have feedback about the contents of the registry, e.g., if you wish to suggest any new organizations to be added or any changes to an existing record, use [this form](https://docs.google.com/forms/d/e/1FAIpQLSdJYaMTCwS7muuTa-B_CnAtCSkKzt19lkirAKG4u7umH9Nosg/viewform). You can read more about the registry's curation workflow [here](https://github.com/ror-community/ror-updates). 
+If you have feedback about the contents of the registry, e.g., if you wish to suggest any new organizations to be added or any changes to an existing record, use [this form](https://curation-request.ror.org). Read more about the registry's [curation model](https://ror.org/registry) and follow the workflow in the [ror-updates Github repository](https://github.com/ror-community/ror-updates). 
 
 ## Code contributions
 If you've written code that works with the [ROR API](https://ror.readme.io/docs/rest-api) or [data dump](https://ror.readme.io/docs/data-dump) that you'd like to share, please make a pull request in [ror-utilities](https://github.com/ror-community/ror-utilities) or add the topic [research-organization-registry](https://github.com/topics/research-organization-registry) to your own repository.
