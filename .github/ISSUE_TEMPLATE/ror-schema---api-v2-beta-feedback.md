@@ -13,14 +13,14 @@ This issue template is for reporting bugs, use case issues or other feedback rel
 Please use this template for feedback related specifically to the ROR schema & API v2 beta. For feedback on other topics, use the general [bug report](https://github.com/ror-community/ror-roadmap/issues/new?assignees=&labels=bug&projects=&template=bug_report.md&title=%5BBUG%5D+) or [feature request templates](https://github.com/ror-community/ror-roadmap/issues/new?assignees=&labels=feature&projects=&template=feature_request.md&title=%5BFEATURE%5D). To request a new ROR record or a data update to an existing record, see [requesting changes to ROR](https://github.com/ror-community/ror-updates#requesting-changes-to-ror). 
 
 ## Which ROR schema/API v2 functionality did you find an issue with?
-[ ] Retrieving a single record  (https://dev.api.ror.org/v2/organizations/[RORID])
-[ ] Retrieving multiple records (https://dev.api.ror.org/v2/organizations)
-[ ] Quick search using ?query parameter  (https://dev.api.ror.org/v2/organizations?query=)
-[ ] Advanced search using ?query.advanced parameter (https://dev.api.ror.org/v2/organizations?query.advanced=)
-[ ] Affiliation matching using ?affiliation parameter (https://dev.api.ror.org/v2/organizations?affiliation)
-[ ] Data dump JSON file
-[ ] Data dump CSV file
-[ ] Something else (please describe below in Issue description section)
+— [ ] Retrieving a single record  (https://dev.api.ror.org/v2/organizations/[RORID])
+— [ ] Retrieving multiple records (https://dev.api.ror.org/v2/organizations)
+— [ ] Quick search using ?query parameter  (https://dev.api.ror.org/v2/organizations?query=)
+— [ ] Advanced search using ?query.advanced parameter (https://dev.api.ror.org/v2/organizations?query.advanced=)
+— [ ] Affiliation matching using ?affiliation parameter (https://dev.api.ror.org/v2/organizations?affiliation)
+— [ ] Data dump JSON file
+— [ ] Data dump CSV file
+— [ ] Something else (please describe below in Issue description section)
 
 ## Issue description
 *Describe the issue & steps to reproduce, if applicable. For issues with API requests, please include the full request URL.*
@@ -38,19 +38,19 @@ Please use this template for feedback related specifically to the ROR schema & A
 ### Name of the organization(s) you represent/are affiliated with
 
 ### Type of organization(s) you represent/are affiliated with
-[ ] Research institution
-[ ] Funder
-[ ] Publisher 
-[ ] System vendor/service provider
-[ ] Other
+— [ ] Research institution
+— [ ] Funder
+— [ ] Publisher 
+— [ ] System vendor/service provider
+— [ ] Other
 
 ### Which ROR tools/features do you currently use?
-[ ] Retrieving a single record  (https://api.ror.org/organizations/[RORID])
-[ ] Retrieving multiple records (https://api.ror.org/organizations)
-[ ] Quick search using ?query parameter  (https://api.ror.org/organizations?query=)
-[ ] Advanced search using ?query.advanced parameter (https://api.ror.org/organizations?query.advanced=)
-[ ] Affiliation matching using ?affiliation (https://api.ror.org/organizations?affiliation)
-[ ] Data dump JSON
-[ ] Data dump CSV
-[ ] None (or none yet)
-[ ] Something else (please describe below)
+— [ ] Retrieving a single record  (https://api.ror.org/organizations/[RORID])
+— [ ] Retrieving multiple records (https://api.ror.org/organizations)
+— [ ] Quick search using ?query parameter  (https://api.ror.org/organizations?query=)
+— [ ] Advanced search using ?query.advanced parameter (https://api.ror.org/organizations?query.advanced=)
+— [ ] Affiliation matching using ?affiliation parameter (https://api.ror.org/organizations?affiliation)
+— [ ] Data dump JSON
+— [ ] Data dump CSV
+— [ ] None (or none yet)
+— [ ] Something else (please describe below)
