@@ -1,7 +1,4 @@
 contact_links:
-  - name: ROR Roadmap Discussion Forum
-    url: https://github.com/ror-community/ror-roadmap/discussions
-    about: Discuss your ideas and suggestions with the ROR community (start here if you don't have enough information to complete the issue template)
   - name: ROR Documentation Site
     url: https://ror.readme.io/
     about: Get help using ROR tools and services
