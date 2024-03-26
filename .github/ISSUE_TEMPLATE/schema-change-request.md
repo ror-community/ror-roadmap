@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 <!---
-This template is for requesting changes to ROR's data model, which is located at https://github.com/ror-community/ror-schema/blob/master/ror_schema.json. Documentation is located at https://ror.readme.io/docs/ror-data-structure . If you don't have enough information to fill this form out completely, start a conversation in the discussion forum to gather community input https://github.com/ror-community/ror-roadmap/discussions
+This template is for requesting changes to ROR's data model, which is located at https://github.com/ror-community/ror-schema/blob/master/ror_schema.json. Documentation is located at https://ror.readme.io/docs/ror-data-structure . 
 -->
 
 **Describe the problem you would like to solve**
