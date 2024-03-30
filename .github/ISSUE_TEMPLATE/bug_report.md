@@ -11,6 +11,9 @@ assignees: ''
 Please do not use this form to request changes to ROR record data, such as adding new ROR records or changing data on existing records! ROR record data changes are managed through a Community Curation Process. To request changes to ROR record data, see https://github.com/ror-community/ror-updates#requesting-changes-to-ror
 -->
 
+**Version**
+The version of the ROR schema and/or API you are using: v1, v2, or unknown.
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
