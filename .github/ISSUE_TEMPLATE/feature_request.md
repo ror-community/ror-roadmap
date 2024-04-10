@@ -6,6 +6,8 @@ labels: feature
 assignees: ''
 
 ---
+**Version** 
+The version of the ROR schema and/or API you are using: v1, v2, or unknown.
 
 **Describe the problem you would like to solve**
 Example: Our data analysts need a way to [...]
