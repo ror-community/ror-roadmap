@@ -58,6 +58,6 @@ If you've written code that works with the [ROR API](https://ror.readme.io/docs/
 If you're interested in making code contributions to ROR tools and services, like [ror-api](https://github.com/ror-community/ror-api) and [ror-app](https://github.com/ror-community/ror-app), please contact us at info@ror.org . We are not likely to accept community pull requests unrelated to tasks on our [software development board](https://github.com/orgs/ror-community/projects/3).
 
 # Help/Contact us
-- [ROR support site](https://ror.readme.io/)
+- [ROR technical documentation](https://ror.readme.io/)
 - [ROR website & blog](https://ror.org/)
 - [Additional ROR contacts & communication channels](https://ror.readme.io/docs/get-in-touch)
