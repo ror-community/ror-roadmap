@@ -16,7 +16,7 @@ assignees: ''
 3. **Brief description:**
    [Provide a short description of the ID system and its purpose]
 
-4. **Is the data associated with the external ID openly accessible via a web interface, API or data file that is not behind a paywa?**
+4. **Is the data associated with the external ID openly accessible via a web interface, API or data file that is not behind a paywall?**
    - [ ] Yes
    - [ ] No
 
