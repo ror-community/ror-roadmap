@@ -24,7 +24,7 @@ If you have feedback about the contents of the registry, e.g., if you wish to su
 ## Code contributions
 If you've written code that works with the [ROR API](https://ror.readme.io/docs/rest-api) or [data dump](https://ror.readme.io/docs/data-dump) that you'd like to share, please make a pull request in [ror-utilities](https://github.com/ror-community/ror-utilities) or add the topic [research-organization-registry](https://github.com/topics/research-organization-registry) to your own repository.
 
-If you're interested in making code contributions to ROR tools and services, like [ror-api](https://github.com/ror-community/ror-api) and [ror-app](https://github.com/ror-community/ror-app), please contact us at info@ror.org.
+If you're interested in making code contributions to ROR tools and services, like [ror-api](https://github.com/ror-community/ror-api) and [ror-app](https://github.com/ror-community/ror-app), please contact us at support@ror.org.
 
 # Help/Contact us
 - [ROR technical documentation](https://ror.readme.io/)
