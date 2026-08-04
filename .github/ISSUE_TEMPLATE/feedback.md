@@ -1,3 +1,12 @@
+---
+name: General feedback
+about: Share feedback or concerns about ROR tools and services.
+title: "[FEEDBACK] "
+labels: ''
+assignees: ''
+
+---
+
 **Version**  
 The version of the ROR schema and/or API you are using: v1, v2, or unknown.
 
