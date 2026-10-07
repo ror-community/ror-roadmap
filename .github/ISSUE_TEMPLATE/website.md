@@ -2,7 +2,7 @@
 name: Website
 about: Report a bug or request an enhancement for the ROR website.
 title: "[WEBSITE]"
-labels: "ror site"
+labels: "website"
 assignees: "amandafrench"
 ---
 
